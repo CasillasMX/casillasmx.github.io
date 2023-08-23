@@ -4,5 +4,5 @@ permalink: /travel/
 title: pubs
 description: some posts or entries on traveling ideas.
 nav: false
-nav_order: 1
+nav_order: 6
 ---

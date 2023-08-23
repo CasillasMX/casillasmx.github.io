@@ -4,7 +4,7 @@ title: recipes
 permalink: /recipes/
 description: A list in no particular order or the things we tend to cook more often.
 nav: true
-nav_order: 2
+nav_order: 4
 display_categories: [fun]
 horizontal: false
 ---
