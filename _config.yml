@@ -175,6 +175,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  recipes:
+    output: true
+    permalink: /recipes/:path/
 
 announcements:
   enabled: true
