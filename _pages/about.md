@@ -1,21 +1,21 @@
 ---
 layout: about
-title: about
+title: Postdoctoral Research Scholar
 permalink: /
-subtitle: Computer Science - Univesidad Nacional de Colombia
+subtitle: Hydrogeologist - University of California, Davis | USDA Sustainable Agricultural Water Systems Unit
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  
 
 
-news: false  # includes a list of news items
+
+news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Las ciencias de la computación y las matemáticas son campos fascinantes y profundamente interconectados. La ciencia de la computación explora los fundamentos teóricos y prácticos de cómo las computadoras resuelven problemas y procesan información, mientras que las matemáticas proporcionan el lenguaje y las herramientas para comprender y modelar fenómenos complejos. Lo interesante de estas disciplinas radica en su capacidad para desafiar nuestra forma de pensar, fomentar la creatividad y abrir nuevas posibilidades. Tanto la ciencia de la computación como las matemáticas son campos en constante evolución, donde los avances tecnológicos y los nuevos descubrimientos teóricos impulsan el progreso y ofrecen oportunidades emocionantes para innovar y mejorar nuestro mundo. [Texto del enlace](URL del enlace)
+I’m an early-career hydrogeological researcher, with a background in construction project management from the cozy coast of Baja California Sur, Mexico. I have 8 years of work experience in various positions from water management to applied hydrological numerical modeling and fieldwork. I’m a very energetic, objective, detailed-oriented, and highly organized team player. In my free time, I enjoy traveling, swimming, doing outdoor activities, and having time with my friends and family.
 
-
+In this space I'll be posting a little bit of everything including but not limited to: hydrogeological research related posts :waterwave:, cooking recipes :cooking:, potentially a sci-fi story I've been working on :flyingsaucer:, traveling pictures :divingmask:, plants :sunflower:, and basically anything that I find _fun_ :whale:. [Texto del enlace](URL del enlace)
