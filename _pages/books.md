@@ -1,9 +1,9 @@
 ---
 layout: book-shelf
-title: Prospective Students
+title: prospective students
 permalink: /pros_students/
 nav: true
-nav_order: 3
+nav_order: 5
 collection: pros_students
 ---
 
@@ -61,4 +61,4 @@ Interested applicants should email me with the subject line “Prospective Postd
 <br/>
 <br/>
 
-> I value collaboration, curiosity, and scientific relevance. If your interests overlap with the research vision of our group, even if you’re unsure about the fit, feel free to reach out! 🚀 If there is good alignment, we can explore ways to collaborate at any study level, whether in person or remotely, including opportunities for summer research internships regardless of UCLA affiliation. 
+> I value collaboration, curiosity, and scientific relevance. If your interests overlap with the research vision of our group, even if you’re unsure about the fit, feel free to reach out! 🚀 If there is good alignment, we can explore ways to collaborate at any study level, whether in person or remotely, including opportunities for research internships regardless of affiliation. 
