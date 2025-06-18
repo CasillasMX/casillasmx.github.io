@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: prospective students
+title: Prospective Students
 permalink: /pros_students/
 nav: true
 nav_order: 5
