@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "lab members",
+          description: "current and past lab members",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-prospective-students",
-          title: "prospective students",
+          title: "Prospective Students",
           description: "",
           section: "Navigation",
           handler: () => {
