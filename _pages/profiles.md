@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: lab members
 nav: true
-nav_order: 7
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -17,12 +17,5 @@ profiles:
       <p> </p>
       <p> </p>
       <p> </p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> </p>
-      <p> </p>
-      <p> </p>
+  
 ---
