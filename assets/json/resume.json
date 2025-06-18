@@ -3,6 +3,7 @@
   "work": [
     {
       "name": "Department of Hydrogeology, Technische Universität Berlin",
+      "location": "Berlín, Germany",
       "position": "Lecturer and Researcher",
       "startDate": "2024-08-01",
       "endDate": "2025-01-31",
@@ -10,14 +11,16 @@
     },
     {
       "name": "Land, Air, and Water Resources Department, University of California, Davis (Affiliated until 2025.09)",
+      "location": "California, USA",
       "position": "Postdoctoral Researcher",
       "startDate": "2022-11-01",
       "endDate": "2024-07-31",
-      "summary": "Supervisors: Dr. Menberu Meles, Dr. Scott Bradford, Prof. Thomas Harter",
+      "summary": "Supervisors: Dr. Menberu Meles, Dr. Scott Bradford & Prof. Thomas Harter",
       "highlights": ["Research performed at the United States Department of Agriculture (USDA) Sustainable Agricultural Water Systems (SAWS) Unit for the evaluation of the impacts of various climatic conditions and management practices on the sustainable use of groundwater in California's Central Valley"]
     },
     {
       "name": "Laboratory for Applied Geology and Hydrogeology (LTGH), Gent University",
+      "location": "Gent, Belgium",
       "position": "Affiliated Postdoctoral Researcher",
       "startDate": "2025-01-01",
       "endDate": "now",
@@ -25,6 +28,7 @@
     },
     {
       "name": "UNESCO-IHE Delft, Institute for Water Education",
+      "location": "Delft, The Netherlands",
       "position": "Junior Researcher Internship",
       "startDate": "2017-10-01",
       "endDate": "2018-07-31",
@@ -55,7 +59,7 @@
     },
     {
       "institution": "Instituto Tecnológico de La Paz, Tecnológico Nacional de México",
-      "location": "La Paz, Baja California Sur, México",
+      "location": "La Paz, México",
       "url": "https://lapaz.tecnm.mx/",
       "area": "Civil Engineering",
       "studyType": "BSc.",
@@ -74,7 +78,7 @@
     },
     {
       "organization": "The International Association of Hydrogeologist, Chapter Mexico",
-      "location": "Ciudad de México, México",
+      "location": "CDMX, México",
       "position": "Member",
       "url": "https://iah.org/",
       "startDate": "2023-01-01",
