@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-prospective-students",
-          title: "prospective students",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/pros_students/";
-          },
-        },{id: "nav-news",
+  },{id: "nav-news",
           title: "news",
           description: "",
           section: "Navigation",
@@ -30,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "You may download my cv for further details.",
+        },{id: "nav-prospective-students",
+          title: "prospective students",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/pros_students/";
           },
         },{id: "nav-people",
           title: "people",
@@ -44,21 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "nav-cv",
+          title: "cv",
+          description: "You may download my cv for further details.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
