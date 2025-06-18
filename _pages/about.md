@@ -10,8 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> </p>
-    <p> </p>
-    <p> </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,7 +31,7 @@ I obtained my Ph.D. in Geology at Gent Universiteit in 2022, in the [Laboratory 
 
 My research lies at the intersection of hydrogeology, integrated modeling, and sustainable water resource management, with a focus on groundwater resilience in arid, drought-prone regions. I develop high-resolution, process-based models that integrate environmental tracers, vadose zone dynamics, and machine learning to improve recharge estimates, simulate contaminant transport, and inform MAR design. My proposed research agenda, centered on the SWaRM program (Sustainable Water Resource Management), adopts a multi-axial approach: innovating in data assimilation (e.g., DTS, age tracers, AEM), advancing groundwater-surface water modeling (e.g., coupled MODFLOW-HYDRUS, integrated frameworks), and enabling multi-scale exploration using Bayesian methods and deep learning. I’m committed to open science, transparent model development, and interdisciplinary collaboration to co-produce actionable knowledge with stakeholders. This includes integrating hydro-economic analysis and governance studies to evaluate cost-effectiveness and equity of groundwater strategies. From California’s Central Valley to arid zones in Mexico and sub-Saharan Africa, my goal is to help shape adaptive and just groundwater governance through technically sound and policy-relevant research.
 
-This space is a reflection of both my scientific interests and who I am beyond the lab. Expect posts mainly on hydrogeology and water science 🌊, but potentially also on cooking experiments 🥘, snapshots from my travels 🌍, plant musings 🌿, and perhaps even chapters from a sci-fi story I’ve been drafting 📚. I believe in science, creativity, and staying human, and this site is my small attempt at keeping all of that in balance 🐋.
+This space is a reflection of both my scientific interests and who I am beyond the lab. Expect posts mainly on hydrogeology and water science 🌊, field (and maybe cooking) experiments 🥘, snapshots from our labs ideas 🌍, plant musings 🌿, and perhaps even chapters from a sci-fi story I’ve been drafting 📚. I believe in science, creativity, and staying human, and this site is my small attempt at keeping all of that in balance 🐋.
 
 
 <!---

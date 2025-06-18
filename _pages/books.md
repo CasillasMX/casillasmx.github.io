@@ -1,13 +1,11 @@
 ---
 layout: book-shelf
-title: prospective students
+title: Prospective Students
 permalink: /pros_students/
 nav: true
 nav_order: 3
 collection: pros_students
 ---
-
-## Prospective Students
 
 > I am building an interdisciplinary research group focused on groundwater resilience, managed aquifer recharge (MAR), and data-informed water governance. Our group works at the intersection of hydrogeology, environmental modeling, machine learning, and socio-economic analysis to support sustainable and equitable groundwater use. If you are interested in joining as a graduate student or postdoctoral researcher, please see the sections below. I especially welcome applicants from diverse backgrounds and with interdisciplinary interests.
 
@@ -32,6 +30,7 @@ To apply, submit your materials through the UCLA CEE Ph.D. admissions portal [ht
 
 Spring 2026 applicants should apply during the 2025–2026 cycle, which closes in August 2025. For Fall 2026, the portal opens in September 2025, with a deadline of December 15, 2025.
 
+
 #### Prospective Master’s Students
 I may supervise M.S. students starting as early as Fall 2025, though most positions will begin in Spring 2026. Suitable applicants will have a background in engineering, hydrology, environmental science, or a related discipline and a strong interest in applied groundwater topics.
 
@@ -43,6 +42,7 @@ Possible M.S. research areas include:
 - Environmental tracer and AEM/DTS integration for aquifer characterization
 
 Prior research or programming experience is preferred but not required. If you plan to apply to the M.S. program in CEE at UCLA, please mention my name in your application and send me a CV and a short note describing your interests.
+
 
 #### Postdoctoral Scholars
 I am open to hosting a postdoctoral researcher with expertise in one or more of the following: high-resolution groundwater modeling, vadose zone hydrology, inverse modeling, machine learning, hydrogeophysics (e.g., AEM), or hydro-economic analysis.
