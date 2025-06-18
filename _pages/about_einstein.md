@@ -1,5 +1,5 @@
-> J. Alberto Casillas-Trasviña
+> ***J. Alberto Casillas-Trasviña, Ph.D.***
 
 I bring over 8 years of experience in groundwater modeling, hydrogeological characterization, and exploration, having worked across academic and applied research settings. I’m an energetic, detail-oriented, and highly organized collaborator who believes in interdisciplinary, interactive and fun teams. Outside of work, I enjoy traveling, swimming, spending time in nature, and sharing good moments with friends and family.
 
-This space is a reflection of both my scientific interests and who I am beyond the lab. Expect posts mainly on hydrogeology and water science 🌊, but potentially also on cooking experiments 🥘, snapshots from my travels 🌍, plant musings 🌿, and perhaps even chapters from a sci-fi story I’ve been drafting 📚. I believe in science, creativity, and staying human, and this site is my small attempt at keeping all of that in balance 🐋.
+This space is a reflection of both my scientific interests and who I am beyond the lab. Expect posts mainly on hydrogeology and water science 🌊, field (and maybe cooking) experiments 🥘, snapshots from our labs ideas 🌍, plant musings 🌿, and perhaps even chapters from a sci-fi story I’ve been drafting 📚. I believe in science, creativity, and staying human, and this site is my small attempt at keeping all of that in balance 🐋.
