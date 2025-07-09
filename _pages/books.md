@@ -3,7 +3,7 @@ layout: book-shelf
 title: Prospective Students
 permalink: /pros_students/
 nav: true
-nav_order: 5
+nav_order: 7
 collection: pros_students
 ---
 
