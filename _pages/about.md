@@ -15,14 +15,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 7 # leave blank to include all the news in the `_news` folder
+  limit: 8 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 8 # leave blank to include all the blog posts
 ---
 
 Hello! I’m an early-career researcher in Groundwater Hydrology from the cozy coast of Baja California Sur, Mexico. I was a Lecturer and Researcher in Hydrogeology at the [Technische Universität Berlin](https://www.tu.berlin/en/). Prior to this, I was a Postdoctoral Researcher in Groundwater Hydrology at UC Davis, LAWR Department, advised by [Prof. Thomas Harter](https://caes.ucdavis.edu/people/thomas-harter), and at the [USDA Sustainable Agricultral Water Systems (SAWS) Unit](https://www.ars.usda.gov/pacific-west-area/davis-ca/sustainable-agricultural-water-systems-research/), advised by [Dr. Scott Bradford](https://www.ars.usda.gov/pacific-west-area/davis-ca/sustainable-agricultural-water-systems-research/people/scott-a-bradford/) and [Dr. Menberu Meles](https://www.ars.usda.gov/pacific-west-area/davis-ca/sustainable-agricultural-water-systems-research/people/menberu-b-meles/). 
