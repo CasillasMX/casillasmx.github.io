@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined the Technical University of Berlin as Lecturer and Researcher in Hydrogelogy.
+I have joined the Technical University of Berlin as Lecturer and Researcher, in habilitation, in Hydrogelogy.
