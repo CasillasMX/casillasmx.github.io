@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-Accepted to become an Assistant Editor for the [Hydrogeology Journal](https://link.springer.com/journal/10040), officially starting on January, 2023. 
+Accepted to become an Assistant Editor for the [Hydrogeology Journal](https://link.springer.com/journal/10040) :droplet:, officially starting on January, 2023. 
