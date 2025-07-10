@@ -7,7 +7,7 @@ nav_order: 7
 collection: pros_students
 ---
 
-> I am building an interdisciplinary research group focused on groundwater resilience, managed aquifer recharge (MAR), and data-informed water governance. Our group works at the intersection of hydrogeology, environmental modeling, machine learning, and socio-economic analysis to support sustainable and equitable groundwater use. If you are interested in joining as a graduate student or postdoctoral researcher, please see the sections below. I especially welcome applicants from diverse scientific backgrounds and with interdisciplinary interests.
+> I am building an interdisciplinary research group focused on groundwater resilience, unconventional state-variables, and data-informed water management decision making, particularly in drought-prone, arid regions. Our group works at the intersection of hydrogeology, environmental modeling, machine learning, and socio-economic analysis to support sustainable and equitable groundwater use. If you are interested in joining as a graduate student or postdoctoral researcher, please see the sections below. I especially welcome applicants from diverse scientific backgrounds and with interdisciplinary interests.
 <br/>
 <br/>
 
@@ -16,15 +16,17 @@ I am recruiting one or two Ph.D. students to begin in Spring 2026 or Fall 2026, 
 
 Relevant research areas include:
 - Numerical groundwater and vadose zone modeling (e.g., MODFLOW, HYDRUS)
-- Machine learning or deep learning for model-data integration and decision support
 - Groundwater–surface water interactions and coupled hydrologic systems
+- Managed aquifer recharge (MAR)
 - DTS (Distributed Temperature Sensing) and environmental tracers for recharge estimation
 - AEM (Airborne Electromagnetics) and hydrogeophysical data assimilation
 - Saltwater intrusion modeling and coastal aquifer management
+- Decision Support Systems
 - Hydro-economics and policy-relevant groundwater governance frameworks
+- Machine learning or deep learning for model-data integration
 
 Preferred qualifications:
-- Programming skills (e.g., Python, R)
+- Programming skills (e.g., Python, R, MATLAB)
 - Experience with fieldwork or spatial datasets
 - Interest in stakeholder engagement and interdisciplinary collaboration
 
