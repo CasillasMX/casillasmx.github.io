@@ -2,7 +2,7 @@
 layout: default
 permalink: /posts/
 title: posts
-nav: true
+nav: false
 nav_order: 2
 pagination:
   enabled: true

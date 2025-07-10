@@ -88,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Beneath-the-Surface # blog_name will be displayed in your blog page
+blog_name: Beneath the Surface # blog_name will be displayed in your blog page
 blog_description: exploring groundwater systems through science, modeling, and integrated water management.
 permalink: /posts/:year/:title/
 lsi: false # produce an index for related posts
@@ -124,7 +124,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: 'MODFLOW 6: USGS Modular Hydrologic Model'
+  - name: MODFLOW 6 USGS Modular Hydrologic Model
     post:
       - url: https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model
         published_date: 2024-12-19
@@ -259,7 +259,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_tags: ["formatting", "images"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
