@@ -86,10 +86,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-gave-a-talk-at-the-instituto-de-geologia-of-the-universidad-nacional-autonoma-de-mexico",
           title: 'I gave a talk at the Instituto de Geologia of the Universidad Nacional...',
           description: "",
-          section: "News",},{id: "news-i-have-accepted-a-tenure-track-assistant-professor-position-in-groundwater-hydrology-in-the-civil-and-environmental-engineering-department-cee-at-ucla-i-m-recruiting-phd-students-for-spring-and-fall-2026-to-work-on-advances-in-hydrogeological-research-applied-to-local-and-regional-scale-cases-i-m-also-looking-for-postdocs-graduate-and-undergraduate-students-interested-to-join-and-or-collaborate-with-my-lab-if-you-re-interested-please-feel-free-to-reach-out-please-go-to-the-prospective-students-page-for-further-details",
-          title: 'I have accepted a tenure-track Assistant Professor position in Groundwater Hydrology in the...',
+          section: "News",},{id: "news-2025-04-11-news-ucla-acceptance",
+          title: '2025 04 11 news ucla acceptance',
           description: "",
-          section: "News",},{id: "news-our-paper-integrated-hydrologic-modeling-of-groundwater-flow-dynamics-and-recharge-in-the-san-joaquin-valley-has-been-published-online-in-journal-of-hydrology",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-04-11%20NEWS%20UCLA%20Acceptance/";
+            },},{id: "news-our-paper-integrated-hydrologic-modeling-of-groundwater-flow-dynamics-and-recharge-in-the-san-joaquin-valley-has-been-published-online-in-journal-of-hydrology",
           title: 'Our paper “Integrated hydrologic modeling of groundwater flow dynamics and recharge in the...',
           description: "",
           section: "News",},{id: "projects-project-1",
