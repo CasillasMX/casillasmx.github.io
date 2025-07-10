@@ -88,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Beneath the Surface # blog_name will be displayed in your blog page
+blog_name: Beneath-the-Surface # blog_name will be displayed in your blog page
 blog_description: exploring groundwater systems through science, modeling, and integrated water management.
 permalink: /posts/:year/:title/
 lsi: false # produce an index for related posts
@@ -99,7 +99,7 @@ pagination:
 
 related_blog_posts:
   enabled: true
-  max_related: 10
+  max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -128,7 +128,7 @@ external_sources:
     post:
       - url: https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model
         published_date: 2024-12-19
-  - name: The {RMODFLOW} R package
+  - name: The {RMODFLOW} R package latest version
     posts:
       - url: https://rogiersbart.github.io/RMODFLOW/index.html#the-rmodflow-r-package-pre--and-post-processing-of-modflow-files
         published_date: 2021-10-12
