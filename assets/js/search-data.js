@@ -53,7 +53,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-defended-my-phd-dissertation-entitled-assessment-of-unconventional-state-variables-to-constrain-groundwater-flow-models-of-the-neogene-aquifer-in-the-campine-basin-in-belgium-at-ghent-university-you-may-find-a-copy-of-the-dissertation-in-the-repository-of-ghent-university-or-in-my-research-gate-page",
+            },},{id: "news-i-defended-my-phd-dissertation-entitled-assessment-of-unconventional-state-variables-to-constrain-groundwater-flow-models-of-the-neogene-aquifer-in-the-campine-basin-in-belgium-at-ghent-university-you-may-find-a-copy-of-the-dissertation-in-the-repository-of-ghent-university-or-in-my-researchgate-page",
           title: 'I defended my PhD dissertation entitled ‘Assessment of unconventional state variables to constrain...',
           description: "",
           section: "News",},{id: "news-i-have-joined-the-land-air-and-water-resources-lawr-department-at-uc-davis-and-the-usda-sustainable-agricultural-water-systems-saws-unit-as-postdoctoral-research-scholar",
