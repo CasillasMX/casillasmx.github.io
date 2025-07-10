@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/pros_students/";
           },
-        },{id: "post-a-post-with-bibliography",
-        
-          title: "a post with bibliography",
-        
-        description: "an example of a blog post with bibliography",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/posts/2023/post-bibliography/";
-          
-        },
-      },{id: "post-the-rmodflow-r-package-rmodflow",
+        },{id: "post-the-rmodflow-r-package-rmodflow",
         
           title: 'The {RMODFLOW} R package • RMODFLOW <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -64,16 +53,47 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-defended-my-phd-dissertation-entitled-assessment-of-unconventional-state-variables-to-constrain-groundwater-flow-models-of-the-neogene-aquifer-in-the-campine-basin-in-belgium-at-ghent-university-you-may-find-a-copy-of-the-dissertation-in-the-repository-of-ghent-university-or-in-my-research-gate-page",
+          title: 'I defended my PhD dissertation entitled ‘Assessment of unconventional state variables to constrain...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-have-joined-the-land-air-and-water-resources-lawr-department-at-uc-davis-and-the-usda-sustainable-agricultural-water-systems-saws-unit-as-postdoctoral-research-scholar",
+          title: 'I have joined the Land, Air and Water Resources (LAWR) Department at UC...',
           description: "",
-          section: "News",},{id: "news-accepted-to-become-an-assistant-editor-for-the-hydrogeology-journal-officially-starting-on-january-2023",
-          title: 'Accepted to become an Assistant Editor for the Hydrogeology Journal, officially starting on...',
+          section: "News",},{id: "news-accepted-to-become-an-assistant-editor-for-the-hydrogeology-journal-droplet-officially-starting-on-january-2023",
+          title: 'Accepted to become an Assistant Editor for the Hydrogeology Journal :droplet:, officially starting...',
+          description: "",
+          section: "News",},{id: "news-i-shared-my-testimony-with-the-sck-cen-academy-regarding-the-30th-anniversary-of-their-doctoral-programme-you-may-find-a-brief-summary-of-my-testimony-in-the-30-years-of-doctoring-with-sck-page",
+          title: 'I shared my testimony with the SCK CEN Academy regarding the 30th anniversary...',
+          description: "",
+          section: "News",},{id: "news-our-review-paper-uncovering-the-gaps-in-managed-aquifer-recharge-for-sustainable-groundwater-management-a-focus-on-hillslopes-and-mountains-has-been-published-online-in-journal-of-hydrology",
+          title: 'Our review paper “Uncovering the gaps in managed aquifer recharge for sustainable groundwater...',
+          description: "",
+          section: "News",},{id: "news-i-have-accepted-a-tenure-track-assistant-professor-position-in-groundwater-hydrology-in-the-civil-and-environmental-engineering-department-cee-at-ucla-i-m-recruiting-phd-students-for-spring-and-fall-2026-to-work-on-advances-in-hydrogeological-research-applied-to-local-and-regional-scale-cases-i-m-also-looking-for-postdocs-graduate-and-undergraduate-students-interested-to-join-and-or-collaborate-with-my-lab-if-you-re-interested-please-feel-free-to-reach-out-please-go-to-the-prospective-students-page-for-further-details",
+          title: 'I have accepted a tenure-track Assistant Professor position in Groundwater Hydrology in the...',
+          description: "",
+          section: "News",},{id: "news-i-shared-my-testimony-with-the-sck-cen-academy-regarding-the-30th-anniversary-of-their-doctoral-programme-you-may-find-a-brief-summary-of-my-testimony-in-the-30-years-of-doctoring-with-sck-page",
+          title: 'I shared my testimony with the SCK CEN Academy regarding the 30th anniversary...',
+          description: "",
+          section: "News",},{id: "news-i-have-joined-the-technical-university-of-berlin-as-lecturer-and-researcher-in-hydrogelogy",
+          title: 'I have joined the Technical University of Berlin as Lecturer and Researcher in...',
+          description: "",
+          section: "News",},{id: "news-our-paper-bayesian-inference-of-coupled-groundwater-flow-and-radiogenic-helium-4-production-and-transport-at-the-catchment-scale-has-been-published-online-in-science-of-the-total-environment",
+          title: 'Our paper “Bayesian inference of coupled groundwater flow and radiogenic helium-4 production and...',
+          description: "",
+          section: "News",},{id: "news-i-was-member-of-the-scientific-committee-for-the-simposio-de-aguas-subterráneas-de-la-asociación-internacional-de-hidrogeólogos-capítulo-méxico-in-monterrey-nuevo-león-méxico-27-29-november-2024",
+          title: 'I was member of the Scientific Committee for the Simposio de Aguas Subterráneas...',
+          description: "",
+          section: "News",},{id: "news-i-gave-a-talk-at-the-university-of-california-los-angeles-samueli-civil-and-environmental-engineering",
+          title: 'I gave a talk at the University of California, Los Angeles Samueli Civil...',
+          description: "",
+          section: "News",},{id: "news-i-gave-a-talk-at-the-kansas-geological-survey",
+          title: 'I gave a talk at the Kansas Geological Survey.',
+          description: "",
+          section: "News",},{id: "news-i-gave-a-talk-at-the-instituto-de-geologia-of-the-universidad-nacional-autonoma-de-mexico",
+          title: 'I gave a talk at the Instituto de Geologia of the Universidad Nacional...',
+          description: "",
+          section: "News",},{id: "news-our-paper-integrated-hydrologic-modeling-of-groundwater-flow-dynamics-and-recharge-in-the-san-joaquin-valley-has-been-published-online-in-journal-of-hydrology",
+          title: 'Our paper “Integrated hydrologic modeling of groundwater flow dynamics and recharge in the...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
