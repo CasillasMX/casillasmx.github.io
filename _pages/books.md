@@ -7,7 +7,7 @@ nav_order: 7
 collection: pros_students
 ---
 
-> I am building an interdisciplinary research group focused on groundwater resilience, unconventional state-variables, and data-informed water management decision making, particularly in drought-prone, arid regions. Our group works at the intersection of hydrogeology, environmental modeling, machine learning, and socio-economic analysis to support sustainable and equitable groundwater use. If you are interested in joining as a graduate student or postdoctoral researcher, please see the sections below. I especially welcome applicants from diverse scientific backgrounds and with interdisciplinary interests.
+> I am building an interdisciplinary research group focused on groundwater resilience, unconventional state-variables, and data-informed water management decision making, particularly in drought-prone, arid regions. Our group works at the intersection of hydrogeology, environmental modeling, machine learning, and socio-economic analysis to support groundwater use. If you are interested in joining as a graduate student or postdoctoral researcher, please see the sections below. I especially welcome applicants with broad scientific backgrounds and with interdisciplinary interests.
 <br/>
 <br/>
 
@@ -23,7 +23,7 @@ Relevant research areas include:
 - Saltwater intrusion modeling and coastal aquifer management
 - Decision Support Systems
 - Hydro-economics and policy-relevant groundwater governance frameworks
-- Machine learning or deep learning for model-data integration
+- Machine learning for model-data integration
 
 Preferred qualifications:
 - Programming skills (e.g., Python, R, MATLAB)
@@ -42,9 +42,10 @@ I may supervise M.S. students starting as early as Fall 2025, though most positi
 Possible M.S. research areas include:
 - Groundwater recharge and MAR performance assessment
 - Coupled surface–subsurface modeling
-- Machine learning or decision support tools for water management
+- Decision support tools for water management
 - Salt water intrusion and contaminant transport modeling
 - Environmental tracer and AEM/DTS integration for aquifer characterization
+- Machine learning applications 
 
 Prior research or programming experience is preferred but not required. If you plan to apply to the M.S. program in CEE at UCLA, please mention my name in your application and send me a CV and a short note describing your interests.
 <br/>
@@ -57,7 +58,7 @@ Candidates should have:
 - A Ph.D. in Civil/Environmental Engineering, Hydrology, Geosciences, or a related field
 - A publication record in relevant areas
 - Proficiency in scientific programming (Python, R, MATLAB, etc.)
-- Strong communication skills and interest in mentoring and interdisciplinary collaboration
+- Strong communication skills, and interest in mentoring and interdisciplinary collaboration
 
 Interested applicants should email me with the subject line “Prospective Postdoc – YOUR NAME”, and include a CV, a 2 pages research statement outlining past work and future interests, and links to any relevant publications.
 <br/>
