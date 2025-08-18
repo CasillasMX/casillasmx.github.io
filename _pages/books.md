@@ -12,7 +12,7 @@ collection: pros_students
 <br/>
 
 #### ***Prospective Ph.D. Students***
-I am recruiting one or two Ph.D. students to begin in Spring 2026 or Fall 2026, depending on mutual availability, research interest and goals. Strong applicants should have a degree (B.S. or M.S.) in Civil or Environmental Engineering, Hydrology, Geology, Earth Sciences, or a related field, and a demonstrated interest in groundwater science and modeling.
+I am recruiting one or two Ph.D. students to begin preferably in Fall 2026, with the possibility of starting in Spring 2026, depending on mutual availability, research interest and goals. Strong applicants should have a degree (B.S. or M.S.) in Civil or Environmental Engineering, Hydrology, Geology, Earth Sciences, or a related field, and a demonstrated interest in groundwater science and modeling.
 
 Relevant research areas include:
 - Numerical groundwater and vadose zone modeling (e.g., MODFLOW, HYDRUS)
