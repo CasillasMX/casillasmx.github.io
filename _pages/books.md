@@ -12,7 +12,7 @@ collection: pros_students
 <br/>
 
 #### ***Prospective Ph.D. Students***
-I am recruiting one or two Ph.D. students to begin preferably in Fall 2026, with the possibility of starting in Spring 2026, depending on mutual availability, research interest and goals. Strong applicants should have a degree (B.S. or M.S.) in Civil or Environmental Engineering, Hydrology, Geology, Earth Sciences, or a related field, and a demonstrated interest in groundwater science and modeling.
+I am recruiting one or two Ph.D. students to begin preferably in Fall 2026, depending on mutual availability, research interest and goals. Strong applicants should have a degree (B.S. or M.S.) in Civil or Environmental Engineering, Hydrology, Geology, Earth Sciences, or a related field, and a demonstrated interest in groundwater science and modeling.
 
 Relevant research areas include:
 - Numerical groundwater and vadose zone modeling (e.g., MODFLOW, HYDRUS)
@@ -30,9 +30,9 @@ Preferred qualifications:
 - Experience with fieldwork or spatial datasets
 - Interest in stakeholder engagement and interdisciplinary collaboration
 
-Before applying, you may reach out to me for further information on these topics. To apply, you may submit your materials through the UCLA CEE Ph.D. admissions portal [https://www.cee.ucla.edu/graduate-admissions/](https://www.cee.ucla.edu/graduate-admissions/) and mention my name in your Statement of Purpose. After submission, email me with the subject line “Prospective Ph.D. Student – YOUR NAME”, attaching your CV and a brief 1-2 page(s) research interest statement.
+If you are interested in working with me, please email me directly for further information on these topics, before submitting an application to the UCLA Ph.D. program. Include the subject line “Prospective Ph.D. Student – [YOUR NAME]”, attaching your CV and a 1-2 page(s) research interest statement/cover letter in a single PDF file.
 
-Spring 2026 applicants should apply during the 2025–2026 cycle, which closes in August 2025. For Fall 2026, the portal opens in September 2025, with a deadline of December 15, 2025.
+For Fall 2026, the UCLA CEE Ph.D. admissions portal opens in September 2025, with a deadline of December 15, 2025. You may revise the relevant information for a complete application through the portal, following this link [https://www.cee.ucla.edu/graduate-admissions/](https://www.cee.ucla.edu/graduate-admissions/).
 <br/>
 <br/>
 
@@ -47,7 +47,7 @@ Possible M.S. research areas include:
 - Environmental tracer and AEM/DTS integration for aquifer characterization
 - Machine learning applications 
 
-Prior research or programming experience is preferred but not required. If you plan to apply to the M.S. program in CEE at UCLA, please mention my name in your application and send me a CV and a short note describing your interests.
+Prior research or programming experience is preferred but not required. If you are interested in working with me, please email me directly before submitting an application to the M.S. program in CEE at UCLA. Include your CV and a brief note describing your research interests.
 <br/>
 <br/>
 
