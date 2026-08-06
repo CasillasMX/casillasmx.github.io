@@ -11,6 +11,10 @@ collection: pros_students
 <br/>
 <br/>
 
+<span style="color:red;">**Note:** I am not currently recruiting new students, but I welcome you to reach out to stay in touch for future opportunities.</span>
+<br/>
+<br/>
+
 #### ***Prospective Ph.D. Students***
 I am recruiting one or two Ph.D. students to begin preferably in Fall 2026, depending on mutual availability, research interest and goals. Strong applicants should have a degree (B.S. or M.S.) in Civil or Environmental Engineering, Hydrology, Geology, Earth Sciences, or a related field, and a demonstrated interest in groundwater science and modeling.
 
